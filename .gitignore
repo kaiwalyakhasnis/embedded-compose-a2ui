@@ -1,0 +1,4 @@
+# Gradle and Kotlin state, if built from here
+/build/
+/.gradle/
+/.kotlin/
